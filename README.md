@@ -86,7 +86,7 @@ Soy un estudiante apasionado por la tecnología y el aprendizaje constante. Actu
   <img src="https://img.shields.io/badge/CSS-10.7%25-1572B6?style=flat-square&logo=css3" alt="CSS"/>
 
 - [`repositorio-git`](https://github.com/FranciscoJavier19/repositorio-git):  
-  Proyecto web estático trabajado principalmente en **HTML** y **CSS**.  
+  Mini paginas web estáticas de practica trabajado principalmente en **HTML** y **CSS**.  
   <img src="https://img.shields.io/badge/HTML-97%25-E34F26?style=flat-square&logo=html5" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-3%25-1572B6?style=flat-square&logo=css3" alt="CSS"/>
 
