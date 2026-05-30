@@ -74,7 +74,20 @@ Soy un estudiante apasionado por la tecnología y el aprendizaje constante. Actu
 
 ## 📦 Proyectos
 
-💼 Próximamente agregaré aquí mis proyectos destacados.
+- [`App`](https://github.com/FranciscoJavier19/App):  
+  Aplicación desarrollada en **Kotlin**.  
+  <img src="https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=flat-square&logo=kotlin" alt="Kotlin"/>
+
+- [`Biblioteca`](https://github.com/FranciscoJavier19/Biblioteca):  
+  Proyecto con énfasis en **Python**, más HTML y CSS para la interfaz.  
+  <img src="https://img.shields.io/badge/Python-65%25-3776AB?style=flat-square&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML-24.3%25-E34F26?style=flat-square&logo=html5" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-10.7%25-1572B6?style=flat-square&logo=css3" alt="CSS"/>
+
+- [`repositorio-git`](https://github.com/FranciscoJavier19/repositorio-git):  
+  Proyecto web estático trabajado principalmente en **HTML** y **CSS**.  
+  <img src="https://img.shields.io/badge/HTML-97%25-E34F26?style=flat-square&logo=html5" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-3%25-1572B6?style=flat-square&logo=css3" alt="CSS"/>
 
 ---
 
