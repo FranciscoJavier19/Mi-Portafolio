@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-5.3-blueviolet?style=for-the-badge&logo=bootstrap">
   <img src="https://img.shields.io/badge/INACAP-Org-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Kotlin-App-7F52FF?style=for-the-badge&logo=kotlin" alt="Kotlin"/>
 </div>
 
 ---
